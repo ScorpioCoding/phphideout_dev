@@ -1,0 +1,31 @@
+# OS Files
+#-------------------------
+.DS_Store
+
+# PhpStorm IDE Files
+#-------------------------
+.idea/*
+
+# Npm IDE Files
+#-------------------------
+/node-modules/*
+
+# Composer IDE Files
+#-------------------------
+composer.lock
+/vendor/
+
+# Sublime Text cache files
+#-------------------------
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+
+# Webpack-encore-pack
+#-------------------------
+/public/build/
+npm-debug.log
