@@ -10,3 +10,7 @@ yeah you know who you are ...
 1- No direct coding into this repo...  
 USE A FORK AND PULL REQUEST.   
 2- The Master branch holds only Releases  
+
+## The project Rules !  
+  1- Only => HTML - SCSS - JS - JQUERY  
+  2- Must use ESLint and Stylint
